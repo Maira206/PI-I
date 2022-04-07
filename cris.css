@@ -1,0 +1,48 @@
+body{
+    /background: cornflowerblue;/
+    margin:0;
+    background-color: rgb(230, 228, 228);
+}
+nav {
+    width: 100%;
+    display: flex;
+    background-color: white;
+}
+.vela {
+    font-family: "Audiowide", sans-serif;
+    color: black;
+    margin: auto 1000px auto 60px;
+    font-size: 30px;
+}
+a {
+    font-family: "Audiowide", sans-serif;
+    color: black;
+    float: left;
+    margin: auto 30px auto 40px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 20px 10px;
+    background-color: white;
+    font-size: 20px;
+}
+a:hover {
+  animation: carnica 1s;
+  animation-fill-mode: both;
+  animation: pocka 0.5s;
+  animation-fill-mode: both;
+}
+@keyframes pocka{
+    100%{
+        font-size: 24px;
+        text-shadow: 0px 1'ifcpx white;
+    }
+}
+.container{
+    width: 80%;
+    height: 500px;
+    background: cyan;
+    border: cyan 1px solid;
+    border-radius: 30px;
+    margin: 15px auto;
+}

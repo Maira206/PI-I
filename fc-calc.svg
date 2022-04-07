@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="215mm"
+   height="85mm"
+   viewBox="0 0 215 85"
+   version="1.1"
+   id="svg112475"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="fc-calc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview112477"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.48640572"
+     inkscape:cx="396.78809"
+     inkscape:cy="233.34429"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs112472" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e4e6f1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722832"
+       id="rect119341"
+       width="213.51872"
+       height="83.307297"
+       x="1.0879111"
+       y="1.0435436" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.81026px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.170257"
+       x="18.421722"
+       y="24.495604"
+       id="text113293"><tspan
+         sodipodi:role="line"
+         id="tspan113291"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.170257"
+         x="18.421722"
+         y="24.495604">204 – 100% FCmáx.  = 204 x 60  	=      12.240 = <tspan
+   style="font-weight:bold;stroke-width:0.170257"
+   id="tspan120071">122 bpm</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.170257"
+         x="18.421722"
+         y="33.078259"
+         id="tspan113295">X  –   60% FCmáx.          100                       100</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.170257"
+         x="18.421722"
+         y="41.660915"
+         id="tspan113297" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.81026px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.170257"
+       x="17.450731"
+       y="56.650848"
+       id="text115611"><tspan
+         sodipodi:role="line"
+         id="tspan115609"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.170257"
+         x="17.450731"
+         y="56.650848">204 – 100% FCmáx.  =     205 x 70  	=  14.280  = <tspan
+   style="font-weight:bold;stroke-width:0.170257"
+   id="tspan120883">142 bpm</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.170257"
+         x="17.450731"
+         y="65.233505"
+         id="tspan115613">X  –   70% FCmáx.             100                100</tspan></text>
+  </g>
+</svg>

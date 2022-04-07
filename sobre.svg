@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="97mm"
+   height="32mm"
+   viewBox="0 0 97 32"
+   version="1.1"
+   id="svg38672"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="sobre.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38674"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3757631"
+     inkscape:cx="253.67739"
+     inkscape:cy="94.856444"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs38669" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12.8876px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.32219"
+       x="0.24185939"
+       y="20.224482"
+       id="text39622"><tspan
+         sodipodi:role="line"
+         id="tspan39620"
+         style="stroke-width:0.32219"
+         x="0.24185939"
+         y="20.224482"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#d81159;fill-opacity:1;stroke-width:0.32219"
+   id="tspan45958">Sobre</tspan> </tspan></text>
+    <g
+       id="g50221"
+       transform="matrix(1.0461365,0,0,1.0461365,-0.02306188,7.2282961)">
+      <rect
+         style="fill:#43074b;fill-opacity:1;fill-rule:evenodd;stroke-width:1.26067"
+         id="rect48626"
+         width="51.853081"
+         height="24.665321"
+         x="38.37204"
+         y="1.4846578"
+         transform="rotate(-5.1421451)" />
+      <text
+         xml:space="preserve"
+         style="font-size:20.2763px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.506909"
+         x="42.228638"
+         y="22.115067"
+         id="text40286"
+         transform="rotate(-5.1421451)"><tspan
+           sodipodi:role="line"
+           id="tspan40284"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';fill:#ff7f35;fill-opacity:1;stroke-width:0.506909"
+           x="42.228638"
+           y="22.115067">NÓS</tspan></text>
+    </g>
+  </g>
+</svg>

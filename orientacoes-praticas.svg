@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="196mm"
+   height="68mm"
+   viewBox="0 0 196 68"
+   version="1.1"
+   id="svg29938"
+   sodipodi:docname="orientacoes-praticas.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29940"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68788157"
+     inkscape:cx="194.80097"
+     inkscape:cy="170.81429"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs29935" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g50760"
+       transform="translate(0.40560239,0.52916667)">
+      <rect
+         style="fill:#ff7f35;fill-opacity:1;fill-rule:evenodd;stroke-width:1.46377"
+         id="rect44862"
+         width="194.9408"
+         height="33.601379"
+         x="0.52340466"
+         y="0.17746457" />
+      <text
+         xml:space="preserve"
+         style="font-size:21.0692px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.526729"
+         x="3.9157283"
+         y="24.519531"
+         id="text31167"><tspan
+           sodipodi:role="line"
+           id="tspan31165"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';stroke-width:0.526729"
+           x="3.9157283"
+           y="24.519531"><tspan
+   style="fill:#43074b;fill-opacity:1;stroke-width:0.526729"
+   id="tspan44254">RECOMENDAÇÕES</tspan> </tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:13.5456px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';text-align:start;letter-spacing:0px;text-anchor:start;stroke-width:0.338643"
+       x="7.3543649"
+       y="47.602219"
+       id="text32095"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;text-anchor:start;fill:#d81159;fill-opacity:1;stroke-width:0.338643"
+         x="7.3543649"
+         y="47.602219"
+         id="tspan41199">para as práticas de</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;text-anchor:start;fill:#d81159;fill-opacity:1;stroke-width:0.338643"
+         x="7.3543649"
+         y="65.987144"
+         id="tspan109320">exercícios físicos</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="280mm"
+   height="100mm"
+   viewBox="0 0 280 100"
+   version="1.1"
+   id="svg29053"
+   sodipodi:docname="genetica_importa.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29055"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="310mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.65512531"
+     inkscape:cx="488.45617"
+     inkscape:cy="246.51772"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs29050">
+    <rect
+       x="1034.0133"
+       y="402.59601"
+       width="386.40582"
+       height="169.45731"
+       id="rect61358" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:19.5496px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.488751"
+       x="3.4507396"
+       y="19.680756"
+       id="text30037"><tspan
+         sodipodi:role="line"
+         id="tspan30035"
+         style="font-size:19.5496px;fill:#d81159;fill-opacity:1;stroke-width:0.488751"
+         x="3.4507396"
+         y="19.680756"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5496px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#d81159;fill-opacity:1;stroke-width:0.488751"
+   id="tspan35101">Fatores que influenciam no </tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-104.30997,-4.837995)"
+       id="text61356"
+       style="font-size:40px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;white-space:pre;shape-inside:url(#rect61358)" />
+    <rect
+       style="fill:#34023a;fill-opacity:1;fill-rule:evenodd;stroke-width:1.72867"
+       id="rect112257"
+       width="184.71877"
+       height="47.450111"
+       x="5.5998707"
+       y="34.218304"
+       transform="matrix(0.99999992,4.0260661e-4,-0.00725304,0.9999737,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.2664px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.731657"
+       x="18.873224"
+       y="58.656845"
+       id="text30557"
+       transform="rotate(-0.0875539)"><tspan
+         sodipodi:role="line"
+         id="tspan30555"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';fill:#ff7f35;fill-opacity:1;stroke-width:0.731657"
+         x="18.873224"
+         y="58.656845">AUMENTO </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.5496px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.488751"
+       x="176.76424"
+       y="50.946297"
+       id="text25452"><tspan
+         sodipodi:role="line"
+         id="tspan25450"
+         style="font-size:19.5496px;fill:#d81159;fill-opacity:1;stroke-width:0.488751"
+         x="176.76424"
+         y="50.946297"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.5496px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#d81159;fill-opacity:1;stroke-width:0.488751"
+   id="tspan25448">de </tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.2664px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.731657"
+       x="125.6958"
+       y="87.230042"
+       id="text30280"
+       transform="rotate(-0.35460153)"><tspan
+         sodipodi:role="line"
+         id="tspan30278"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';fill:#ff7f35;fill-opacity:1;stroke-width:0.731657"
+         x="125.6958"
+         y="87.230042">PESO </tspan></text>
+  </g>
+</svg>

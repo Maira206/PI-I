@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="310mm"
+   height="157mm"
+   viewBox="0 0 310 157"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="boneco_obeso.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     height="107mm"
+     inkscape:zoom="0.23162177"
+     inkscape:cx="-330.27983"
+     inkscape:cy="485.70563"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6635" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath951">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 25.130769,-18.276923 114.23077,-15.421154 105.66346,111.375 29.128847,104.52115 Z"
+         id="path953" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6271"
+       transform="translate(104.19762,-3.6348008)">
+      <g
+         id="g6635"
+         transform="translate(-23.424272,-1.2116003)">
+        <path
+           id="path6085"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.09823;stroke-opacity:1"
+           d="M 81.05609,33.444001 A 10.378693,10.227242 0 0 0 70.677396,43.671282 10.378693,10.227242 0 0 0 81.05609,53.898566 10.378693,10.227242 0 0 0 91.434787,43.671282 10.378693,10.227242 0 0 0 81.05609,33.444001 Z m -0.582393,22.148001 c -2.72361,-0.01886 -5.530305,0.140211 -8.423775,0.569476 -15.046359,3.538929 -21.695494,16.832125 -19.989993,38.838454 0.01698,3.18359 6.859567,4.02733 7.567496,0 1.325311,-7.53957 0.349581,-13.96358 3.42718,-19.705256 -1.157388,16.374216 -1.335855,41.364624 5.862177,60.517234 1.357069,3.61091 7.173008,3.69517 8.718846,-0.73846 1.415021,-8.19578 1.411288,-20.16878 1.982309,-30.22141 0.562218,-1.1554 1.311169,-0.65125 1.71359,-0.14262 0.302601,10.38615 0.455207,20.82202 1.856218,30.84204 2.687958,5.07206 7.372911,2.54663 8.104931,0.58808 9.293234,-22.54261 6.654607,-44.993078 6.744809,-60.98749 2.481395,4.642842 3.287035,11.195962 3.141415,19.276342 -0.0819,4.54286 7.08848,4.35955 7.53235,0.53537 0.91075,-8.11914 0.32656,-16.178605 -2.28461,-23.345866 -3.32234,-7.308889 -8.586468,-13.9169 -18.027328,-15.52825 -2.561354,-0.282411 -5.202002,-0.478779 -7.925615,-0.497644 z" />
+      </g>
+    </g>
+  </g>
+</svg>

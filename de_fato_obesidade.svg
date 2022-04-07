@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="60mm"
+   viewBox="0 0 110 60"
+   version="1.1"
+   id="svg1425"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="de_fato_obesidade.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1427"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.1497348"
+     inkscape:cx="357.03884"
+     inkscape:cy="170.90897"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1422" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.25"
+       id="rect56518"
+       width="109.30962"
+       height="59.544979"
+       x="0.23012595"
+       y="0.28765675" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.2291px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#d81159;fill-opacity:1;stroke-width:0.330729"
+       x="9.2917147"
+       y="19.824619"
+       id="text1972"><tspan
+         sodipodi:role="line"
+         id="tspan1970"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#d81159;fill-opacity:1;stroke-width:0.330729"
+         x="9.2917147"
+         y="19.824619">O que é de </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.2291px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;mix-blend-mode:normal;fill:#d81159;fill-opacity:1;stroke-width:0.330729"
+       x="12.691435"
+       y="48.212334"
+       id="text4344"><tspan
+         sodipodi:role="line"
+         id="tspan4342"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#d81159;fill-opacity:1;stroke-width:0.330729"
+         x="12.691435"
+         y="48.212334">obesidade</tspan></text>
+    <rect
+       style="fill:#34023a;fill-opacity:1;fill-rule:evenodd;stroke-width:2.90739"
+       id="rect30024"
+       width="52.086716"
+       height="18.655102"
+       x="29.084604"
+       y="28.381622"
+       transform="matrix(0.99154344,-0.12977519,0.14490176,0.98944605,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.3661px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.459154"
+       x="31.353525"
+       y="44.686996"
+       id="text2966"
+       transform="matrix(0.99104349,-0.13707002,0.13720613,0.99006064,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2964"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';stroke-width:0.459154"
+         x="31.353525"
+         y="44.686996"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';fill:#ff7f35;fill-opacity:1;stroke-width:0.459154"
+   id="tspan19458">FATO</tspan> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:33.914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.847851"
+       x="88.482658"
+       y="16.581514"
+       id="text6574"
+       transform="matrix(0.92957677,0.30445347,-0.30068277,0.97727925,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan6572"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#d81159;fill-opacity:1;stroke-width:0.847851"
+         x="88.482658"
+         y="16.581514">?</tspan></text>
+  </g>
+</svg>

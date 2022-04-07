@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="226mm"
+   height="18mm"
+   viewBox="0 0 226 18"
+   version="1.1"
+   id="svg50826"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="calc-fc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview50828"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68788157"
+     inkscape:cx="701.42888"
+     inkscape:cy="-163.54559"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs50823" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.264583"
+       x="0.55868965"
+       y="10.0051"
+       id="text52429"><tspan
+         sodipodi:role="line"
+         id="tspan52427"
+         style="stroke-width:0.264583"
+         x="0.55868965"
+         y="10.0051"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#d81159;fill-opacity:1"
+   id="tspan57649">Como calcular a</tspan><tspan
+   style="fill:#d81159;fill-opacity:1"
+   id="tspan66747"> </tspan> </tspan></text>
+    <rect
+       style="fill:#43074b;fill-opacity:1;fill-rule:evenodd;stroke-width:1.02809"
+       id="rect68565"
+       width="128.46809"
+       height="13.654542"
+       x="91.250542"
+       y="1.05481" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.264583"
+       x="94.364227"
+       y="12.062706"
+       id="text52631"><tspan
+         sodipodi:role="line"
+         id="tspan52629"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';fill:#ff7f35;fill-opacity:1;stroke-width:0.264583"
+         x="94.364227"
+         y="12.062706">FREQUÊNCIA CARDÍACA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.4411px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.561028"
+       x="212.28168"
+       y="-23.125584"
+       id="text55085"
+       transform="rotate(10.546754)"><tspan
+         sodipodi:role="line"
+         id="tspan55083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI Bold';fill:#408da0;fill-opacity:1;stroke-width:0.561028"
+         x="212.28168"
+         y="-23.125584">?</tspan></text>
+  </g>
+</svg>

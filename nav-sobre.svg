@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1004mm"
+   height="348mm"
+   viewBox="0 0 1004 348"
+   version="1.1"
+   id="svg103360"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="nav-sobre.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview103362"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1004mm"
+     height="348mm"
+     inkscape:zoom="0.085985197"
+     inkscape:cx="744.31417"
+     inkscape:cy="715.2394"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g103798" />
+  <defs
+     id="defs103357">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath103317">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264726px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -3.596544,546.68608 V 896.82391 L 999.34265,897.67132 V 549.61319 Z"
+         id="path103319" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13358"
+       id="linearGradient101076"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.003757,0,0,1,33.498575,9.94514)"
+       x1="403.93973"
+       y1="290.44763"
+       x2="534.39343"
+       y2="291.98618" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient13358">
+      <stop
+         style="stop-color:#6b1277;stop-opacity:1"
+         offset="0"
+         id="stop13354" />
+      <stop
+         style="stop-color:#6b1277;stop-opacity:0.84090906"
+         offset="1"
+         id="stop13356" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath104018">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 0.05793135,1.3655801 V 351.12934 L 1002.9971,351.97582 V 4.28957 Z"
+         id="path104020" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g103798">
+      <g
+         id="g103870"
+         clip-path="url(#clipPath104018)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+           id="rect101100"
+           width="1002.9393"
+           height="346.83975"
+           x="0.057879072"
+           y="5.1360774" />
+        <ellipse
+           style="fill:#740d62;fill-opacity:0.854902;fill-rule:evenodd;stroke-width:1.47646"
+           id="ellipse101058"
+           cx="206.44279"
+           cy="145.92856"
+           rx="139.8886"
+           ry="124.27666" />
+        <ellipse
+           style="fill:#422472;fill-opacity:0.939394;fill-rule:evenodd;stroke-width:1.55193"
+           id="ellipse101060"
+           cx="17.096472"
+           cy="140.62593"
+           rx="94.841438"
+           ry="72.914932"
+           transform="matrix(0.94680801,-0.321799,0.30708353,0.95168257,0,0)" />
+        <path
+           style="fill:#2d1650;fill-opacity:1;stroke:none;stroke-width:0.350915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M -44.795355,118.47857 C 91.287789,127.87382 157.01929,72.18277 208.99756,3.54995 L -56.649405,3.41811 Z"
+           id="path101062"
+           sodipodi:nodetypes="cccc" />
+        <ellipse
+           style="fill:#80006a;fill-opacity:0.852273;fill-rule:evenodd;stroke:none;stroke-width:1.57762"
+           id="ellipse101064"
+           cx="462.09326"
+           cy="140.13464"
+           rx="104.14106"
+           ry="71.990982"
+           transform="matrix(0.9677232,-0.25201548,0.4488501,0.89360707,0,0)" />
+        <ellipse
+           style="fill:#43074b;fill-opacity:1;fill-rule:evenodd;stroke-width:1.8469"
+           id="ellipse101066"
+           cx="343.58475"
+           cy="85.980621"
+           rx="166.44861"
+           ry="163.42799" />
+        <ellipse
+           style="fill:url(#linearGradient101076);fill-opacity:0.988636;fill-rule:evenodd;stroke:none;stroke-width:1.58911;stroke-opacity:1"
+           id="ellipse101068"
+           cx="390.92026"
+           cy="300.39279"
+           rx="177.43512"
+           ry="102.34122" />
+        <path
+           style="fill:#43074b;fill-opacity:1;stroke:none;stroke-width:0.42091px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M -8.1013648,180.81422 C 175.93178,149.83471 318.30216,276.30044 343.03539,355.49094 L -15.054568,352.505 Z"
+           id="path101070"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g101045"
+           transform="matrix(5.3693514,0,0,5.3693514,1461.5095,23.377577)">
+          <g
+             id="g103168"
+             transform="translate(-183.83329,14.874478)">
+            <text
+               xml:space="preserve"
+               style="font-size:10.5833px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.264583"
+               x="22.98214"
+               y="8.3249083"
+               id="text51528"><tspan
+                 sodipodi:role="line"
+                 id="tspan51526"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
+                 x="22.98214"
+                 y="8.3249083"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#650072;fill-opacity:1"
+   id="tspan56404">Você</tspan> </tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:11.815px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.295376"
+               x="16.065315"
+               y="19.41839"
+               id="text51796"><tspan
+                 sodipodi:role="line"
+                 id="tspan51794"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';fill:#ff7f35;fill-opacity:1;stroke-width:0.295376"
+                 x="16.065315"
+                 y="19.41839">SAUDÁ </tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:11.815px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.295376"
+               x="72.879143"
+               y="19.41839"
+               id="text93912"><tspan
+                 sodipodi:role="line"
+                 id="tspan93910"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';fill:#ff7f35;fill-opacity:1;stroke-width:0.295376"
+                 x="72.879143"
+                 y="19.41839">EL</tspan></text>
+            <path
+               style="fill:none;stroke:#d81159;stroke-width:1.09887;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 63.743815,22.281415 c 1.644578,-1.766776 3.042366,-3.580326 4.167678,-5.098045 1.107177,-1.514298 2.372931,-3.053977 2.94935,-4.658699 C 72.94774,6.6080924 67.889157,0.74516863 63.67547,10.304653 61.899555,2.6694675 56.617871,4.5346858 56.54996,9.7624673 c -0.09641,2.2941367 1.150105,4.2726917 2.219633,5.9475207 1.361252,2.123162 3.263634,4.779169 4.974222,6.571427 z"
+               id="path94650"
+               sodipodi:nodetypes="ccccccc" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:59.9077px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;fill:#ff711f;fill-opacity:1;stroke-width:1.49739;stroke-miterlimit:4;stroke-dasharray:none"
+           x="65.402069"
+           y="208.93283"
+           id="text101074"
+           transform="scale(1.0182084,0.98211721)"><tspan
+             sodipodi:role="line"
+             id="tspan101072"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#ff711f;fill-opacity:1;stroke-width:1.49739;stroke-miterlimit:4;stroke-dasharray:none"
+             x="65.402069"
+             y="208.93283">SOBRE NÓS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="650mm"
+   height="210mm"
+   viewBox="0 0 650 210"
+   version="1.1"
+   id="svg8724"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="tabela_obesidade.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8726"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="410mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="1158.9922"
+     inkscape:cy="224.28543"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8721">
+    <rect
+       x="11.048543"
+       y="380.06989"
+       width="187.82524"
+       height="46.403885"
+       id="rect76240" />
+    <rect
+       x="33.14563"
+       y="318.19806"
+       width="214.34174"
+       height="353.55338"
+       id="rect76374" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath951">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 25.130769,-18.276923 114.23077,-15.421154 105.66346,111.375 29.128847,104.52115 Z"
+         id="path953" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.264583"
+       x="54.259617"
+       y="69.680763"
+       id="text70235"><tspan
+         sodipodi:role="line"
+         id="tspan70233"
+         style="stroke-width:0.264583"
+         x="54.259617"
+         y="69.680763" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text76372"
+       style="font-size:40px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;white-space:pre;shape-inside:url(#rect76374)" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke-width:1.22432"
+       id="rect81936"
+       width="648.37909"
+       height="160.91852"
+       x="1.7539562"
+       y="1.1693043" />
+    <g
+       id="g80820"
+       transform="translate(35.663778,23.386083)">
+      <path
+         id="path967"
+         style="fill:#a1c5ce;fill-opacity:1;stroke:none;stroke-width:0.333139px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 27.106789,1.5237896 c -1.764954,-0.012591 -3.475686,0.8773107 -3.836963,2.8238838 -0.192838,1.7566147 -0.387048,3.3177071 0.03383,4.5195084 2.263333,6.4627892 5.490398,6.2602402 7.836591,0.4906013 C 31.660204,8.0791432 31.563576,6.3718693 31.367331,4.4400669 30.92588,2.5716217 28.985608,1.5366955 27.106785,1.5237896 Z M 26.711186,15.78699 c -1.154199,0.01376 -2.353049,0.135392 -3.624847,0.43139 -3.30487,1.245152 -4.915288,3.744979 -5.889155,6.716801 -0.627249,2.131443 -1.462648,12.990121 -1.932471,19.691684 -0.09344,1.332863 2.55941,1.908251 2.760113,0.368276 l 2.46146,-18.886813 c 0.1071,-0.821781 1.6526,-0.573983 1.403481,0.483443 -0.369181,0.383555 0.925332,33.989841 1.119793,45.272526 0.02951,1.712022 3.59194,2.228315 3.404926,0 -0.465147,-5.542261 -0.230254,-24.197689 0.07613,-25.304961 0.273991,-0.990205 1.444721,-0.898033 1.54988,0.07483 0.171187,1.583526 0.411604,17.909124 0.241396,25.625085 0.865517,1.489028 2.683252,1.20328 3.032096,0.09239 0.04153,-0.132223 1.196261,-30.190141 1.525806,-45.852267 0.01388,-0.65954 0.968207,-0.894953 1.288312,0 0.301338,0.842489 1.697837,14.261894 2.57663,18.219884 0.401342,1.80762 2.753916,0.47269 2.576625,-0.368276 -0.908806,-4.310869 -0.710517,-12.782943 -2.024867,-19.415801 -0.762311,-2.773932 -1.904886,-5.402723 -6.256782,-6.809195 -1.394693,-0.196568 -2.80455,-0.356699 -4.288526,-0.338996 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.0234px;line-height:1.25;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';letter-spacing:0px;fill:#800080;stroke-width:0.275585"
+         x="6.5340147"
+         y="91.569374"
+         id="text72852"
+         transform="scale(1.0153664,0.98486615)"><tspan
+           sodipodi:role="line"
+           id="tspan72850"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';fill:#399376;fill-opacity:1;stroke-width:0.275585"
+           x="6.5340147"
+           y="91.569374">Magreza</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.60323px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.165081"
+         x="27.771511"
+         y="104.26453"
+         id="text83810"><tspan
+           sodipodi:role="line"
+           id="tspan83808"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="27.771511"
+           y="104.26453">IMC menor que </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="27.771511"
+           y="112.51856"
+           id="tspan88984">18,5 kg/m2</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.165081"
+           x="27.771511"
+           y="120.7726"
+           id="tspan139186" /><tspan
+           sodipodi:role="line"
+           style="fill:#4d4d4d;stroke-width:0.165081"
+           x="27.771511"
+           y="129.02664"
+           id="tspan154094" /></text>
+    </g>
+    <g
+       id="g80830"
+       transform="translate(35.663778,23.386083)">
+      <path
+         id="path8899"
+         style="fill:#68b6c7;fill-opacity:1;stroke:none;stroke-width:0.329932px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 116.17024,2.1250091 c -2.64749,0.00249 -5.41818,2.8562129 -4.45021,8.2553949 2.0706,6.012726 7.57787,4.452283 8.38427,-0.4555866 0.93144,-5.2865794 -1.44701,-7.8017037 -3.93406,-7.7998083 z m -0.154,13.9628329 c -1.83505,5e-5 -3.76131,0.2431 -5.73579,0.73268 -2.67428,1.174002 -4.9211,2.717349 -5.39749,5.130706 -0.61532,4.991505 -0.64332,16.873477 -0.64955,21.237448 -0.003,2.160497 3.8367,2.400412 3.85608,0.566426 0.0772,-7.302305 -0.11959,-17.802864 0.357,-18.68628 0.16985,-0.314877 1.13916,-0.258214 1.18955,0.128889 0.0666,0.511751 0.58959,40.999893 1.54657,44.431934 0.72421,2.597275 3.99914,0.850878 3.99527,-0.355064 -0.0247,-7.581161 -0.1962,-24.169086 -0.12889,-24.487152 0.28032,-1.324584 1.64751,-1.216004 1.80433,-0.25776 0.0981,0.599571 -0.10886,23.64802 0.17463,24.712048 0.88682,3.328464 3.96859,0.981974 3.69175,0.312535 1.67129,-14.493491 0.97401,-30.66301 1.31844,-43.841024 -0.0653,-1.136904 1.93825,-1.000745 1.8243,0.289975 -0.3224,3.651999 0.22961,11.539064 -0.0728,17.418745 -0.0501,0.9742 3.00286,2.294863 3.36634,-0.151434 0.90937,-6.120167 0.046,-19.45575 -0.0677,-20.596918 -0.11422,-1.146905 -0.63089,-4.01353 -5.88271,-5.860805 -1.61016,-0.481948 -3.3543,-0.724999 -5.18934,-0.724949 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.9173px;line-height:1.25;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';letter-spacing:0px;fill:#399376;fill-opacity:1;stroke-width:0.272932"
+         x="98.290428"
+         y="90.397034"
+         id="text51362"
+         transform="scale(1.0153664,0.98486616)"><tspan
+           sodipodi:role="line"
+           id="tspan51360"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';fill:#399376;fill-opacity:1;stroke-width:0.272932"
+           x="98.290428"
+           y="90.397034">Normal</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.60323px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.165081"
+         x="116.39558"
+         y="103.54412"
+         id="text92835"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="116.39558"
+           y="103.54412"
+           id="tspan92833">IMC entre 18,5 e </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="116.39558"
+           y="111.79816"
+           id="tspan101971">24,9kg/m2</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.165081"
+           x="116.39558"
+           y="120.05219"
+           id="tspan172154" /><tspan
+           sodipodi:role="line"
+           style="fill:#666666;stroke-width:0.165081"
+           x="116.39558"
+           y="128.30623"
+           id="tspan172168" /></text>
+    </g>
+    <g
+       id="g80849"
+       transform="translate(35.663778,23.386083)">
+      <path
+         id="path19973"
+         style="fill:#096289;fill-opacity:1;stroke:none;stroke-width:0.330273px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 305.53615,1.5237904 a 4.3219316,6.1281123 0 0 0 -4.32193,6.1281122 4.3219316,6.1281123 0 0 0 4.32193,6.1281124 4.3219316,6.1281123 0 0 0 4.32193,-6.1281124 4.3219316,6.1281123 0 0 0 -4.32193,-6.1281122 z M 301.31678,13.52973 c -11.9373,1.514668 -14.85908,21.873342 -10.36812,29.452997 3.63397,1.149795 3.71855,-0.426564 4.28774,-1.870041 -5.08617,-6.413463 -0.35487,-12.451427 0.95793,-18.975217 0.49837,-0.224093 0.93136,-0.66413 1.77844,0.274154 -1.19922,6.025227 -7.52588,13.462081 -1.23144,17.423834 0.67841,9.83209 1.14754,19.653013 4.0594,29.602659 1.4655,1.680965 2.6842,1.305659 3.78588,-0.04519 0.33818,-8.53943 0.50605,-17.127743 0,-25.908373 0.81325,-0.602632 1.32694,-0.40613 1.77909,-0.0458 0.13011,8.270696 -0.53361,17.126814 0,25.862574 0.85374,1.408392 2.29833,1.885945 3.87749,-0.091 2.92385,-10.838005 3.72379,-20.335088 4.37869,-29.740057 4.98615,-3.029139 1.0488,-10.292927 -1.50557,-17.150328 0.12886,-0.439751 0.94671,-1.14677 1.87004,-0.182555 2.47483,7.362249 5.65918,15.073564 0.7302,18.792664 -0.4723,2.204064 3.10268,3.620856 4.24194,2.098395 2.98725,-3.28487 5.27321,-26.219442 -10.43133,-29.485251 -2.35553,2.715712 -5.25008,2.612012 -8.21038,-0.01354 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.9286px;line-height:1.25;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';letter-spacing:0px;fill:#399376;fill-opacity:1;stroke-width:0.273214"
+         x="260.92819"
+         y="90.299553"
+         id="text70346"
+         transform="scale(1.0153664,0.98486616)"><tspan
+           sodipodi:role="line"
+           id="tspan70344"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';fill:#399376;fill-opacity:1;stroke-width:0.273214"
+           x="260.92819"
+           y="90.299553">Obesidade grau I</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.60323px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.165081"
+         x="306.026"
+         y="103.3876"
+         id="text103873"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="306.026"
+           y="103.3876"
+           id="tspan103871">IMC entre 30,0 e </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="306.026"
+           y="111.64164"
+           id="tspan122415">34,9 Kg/m2</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#666666;stroke-width:0.165081"
+           x="306.026"
+           y="119.89568"
+           id="tspan175374" /></text>
+    </g>
+    <g
+       id="g80840"
+       transform="translate(35.663778,23.386083)">
+      <path
+         id="path17502"
+         style="fill:#008db2;fill-opacity:1;stroke:none;stroke-width:0.329952px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 201.8739,1.523788 a 4.5755065,6.1866 0 0 0 -4.5755,6.1866007 4.5755065,6.1866 0 0 0 4.5755,6.1865993 4.5755065,6.1866 0 0 0 4.57551,-6.1865993 4.5755065,6.1866 0 0 0 -4.57551,-6.1866007 z m -3.29628,12.715397 c -10.56009,0.472474 -13.58605,17.561872 -9.85024,28.915266 2.25585,1.459536 3.13503,0.353107 4.05996,-0.386663 -2.85119,-4.729907 -1.57666,-8.446273 0.70888,-20.622 0.67589,-0.352112 1.21416,-0.291385 1.54665,0.386663 -1.07496,6.593995 -3.4486,14.033365 -0.77332,18.173138 -0.42895,9.841613 1.20051,19.366552 2.96441,28.870803 1.35645,1.019998 2.68046,1.488158 3.86663,-0.386664 -0.005,-9.142329 -0.37058,-18.316999 0,-25.648614 1.4012,-1.221086 1.38264,-0.08696 1.86886,0.06445 0.67248,9.084844 0.22981,17.39387 0.32221,25.97083 1.76932,1.462393 2.52567,0.49365 3.47997,0 1.86316,-9.229922 2.90556,-18.824642 3.22218,-28.741912 2.78745,-5.412794 -0.15883,-12.083904 -1.03109,-18.302024 0.998,-0.613799 1.04701,-0.04135 1.41776,0.128888 4.22873,14.834631 2.55387,17.379824 0.38666,19.590899 1.54665,2.356242 3.09331,2.320373 4.63996,0.902213 4.10532,-10.384165 1.20309,-28.3414 -10.06225,-28.762535 -1.96307,1.119384 -3.96215,2.095919 -6.76723,-0.152731 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.9179px;line-height:1.25;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';letter-spacing:0px;fill:#399376;fill-opacity:1;stroke-width:0.272948"
+         x="174.29506"
+         y="90.028107"
+         id="text69950"
+         transform="scale(1.0153664,0.98486616)"><tspan
+           sodipodi:role="line"
+           id="tspan69948"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';fill:#399376;fill-opacity:1;stroke-width:0.272948"
+           x="174.29506"
+           y="90.028107">Sobrepeso </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.60323px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.165081"
+         x="202.68167"
+         y="103.48386"
+         id="text103879"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="202.68167"
+           y="103.48386"
+           id="tspan103877">IMC entre 24,9 e </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="202.68167"
+           y="111.73789"
+           id="tspan119387">30 kg/m2</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="202.68167"
+           y="119.99193"
+           id="tspan173478" /><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#666666;stroke-width:0.165081"
+           x="202.68167"
+           y="128.24597"
+           id="tspan173492" /></text>
+    </g>
+    <g
+       id="g80858"
+       transform="translate(35.663778,23.386083)">
+      <path
+         id="path23941"
+         style="fill:#21697b;fill-opacity:1;stroke:none;stroke-width:0.330534px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 416.69592,1.5237918 a 4.8387923,6.3680327 0 0 0 -4.83921,6.3679417 4.8387923,6.3680327 0 0 0 4.83921,6.3679445 4.8387923,6.3680327 0 0 0 4.83858,-6.3679445 4.8387923,6.3680327 0 0 0 -4.83858,-6.3679417 z M 411.2079,13.222886 c -11.31955,3.786233 -13.78117,11.602769 -13.10773,27.229671 0.14918,2.632594 4.52595,2.434704 4.22593,1.17236 -0.57615,-2.424049 -1.83912,-14.710604 4.42476,-20.92693 1.3911,-0.57569 1.35963,0.508286 1.80761,1.032918 -5.914,7.587493 -5.80628,16.001492 -2.96965,24.790047 l 5.61649,23.369787 c 1.48483,1.360471 2.90469,0.624256 4.45447,0.129111 0.70285,-0.224555 -0.49064,-26.587321 -0.25823,-26.726767 0.7683,-0.149755 1.62312,-0.602369 2.06584,0.387347 l -0.12912,25.952074 c 1.29115,1.29115 2.84053,1.29115 4.64814,0 1.28889,-5.656934 2.97563,-13.03785 4.77724,-20.916598 2.29577,-8.12873 5.06425,-16.105515 -2.00127,-27.243227 0.51646,-1.038821 1.03292,-0.613414 1.54938,-0.516459 4.20937,5.986657 6.31171,12.506933 4.51901,20.722929 2.86476,1.531463 3.44291,0.01414 4.32535,-1.097476 0.64298,-6.027888 1.59442,-23.607786 -13.45118,-27.239999 -1.87582,3.41109 -8.81887,3.371006 -10.49704,-0.118793 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.9372px;line-height:1.25;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';letter-spacing:0px;fill:#399376;fill-opacity:1;stroke-width:0.27343"
+         x="369.2728"
+         y="90.77475"
+         id="text70342"
+         transform="scale(1.0153664,0.98486616)"><tspan
+           sodipodi:role="line"
+           id="tspan70340"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';fill:#399376;fill-opacity:1;stroke-width:0.27343"
+           x="369.2728"
+           y="90.77475">Obesidade grau II</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.60323px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.165081"
+         x="417.5502"
+         y="103.45734"
+         id="text129281"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="417.5502"
+           y="103.45734"
+           id="tspan129279"> IMC entre 35,0 e </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="417.5502"
+           y="111.71137"
+           id="tspan136391">39,9Kg/m2</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#666666;stroke-width:0.165081"
+           x="417.5502"
+           y="119.96541"
+           id="tspan176350" /></text>
+    </g>
+    <g
+       id="g80866"
+       transform="translate(35.663778,23.386083)">
+      <path
+         id="path27415"
+         style="fill:#134f66;fill-opacity:1;stroke:none;stroke-width:0.329986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 524.25056,1.5237927 a 5.2849385,6.4772725 0 0 0 -5.28496,6.4772709 5.2849385,6.4772725 0 0 0 5.28496,6.4772734 5.2849385,6.4772725 0 0 0 5.28494,-6.4772734 5.2849385,6.4772725 0 0 0 -5.28494,-6.4772709 z m -6.12281,10.5054283 c -0.12697,0.149378 -18.40422,3.920002 -18.14281,27.069196 1.74428,2.960358 3.46714,2.498096 5.38161,1.289012 -2.19592,-5.385005 0.0612,-9.639052 3.22253,-13.663503 -0.29699,-1.876831 -0.0515,-3.751117 3.80258,-7.154001 1.21952,-0.0106 0.97922,0.660152 0.96675,1.22456 -1.5581,1.537941 -3.4989,2.721544 -2.83582,6.316145 -2.66172,2.693732 -5.1869,5.536416 -3.22252,13.276799 -2.00184,10.345322 8.20293,18.270781 11.1177,28.648235 1.24389,2.763043 4.62341,1.709726 4.99494,0.225579 1.37546,-5.494545 -0.524,-26.228362 0.12889,-25.909093 h 1.54681 c 0.21347,8.694182 -0.69179,18.690167 0.12891,25.844638 0.58952,1.719256 3.92627,2.431552 5.02713,-0.257807 2.27485,-9.455062 12.64291,-17.372717 10.95658,-28.809357 2.29561,-6.378724 -0.34669,-9.794696 -3.09362,-13.147894 -0.13903,-1.974991 0.72246,-3.983598 -3.02917,-6.122795 0.26071,-0.698324 -0.2693,-1.660125 1.61126,-1.22456 2.71046,2.27725 3.18336,4.554499 3.35142,6.831752 5.28277,6.888734 3.59852,10.089042 3.35143,14.050202 1.8827,0.337956 3.85647,2.120508 5.41384,-2.126865 -0.82301,-24.396483 -18.41238,-25.981152 -18.43284,-25.973541 -1.5173,3.486415 -8.90002,5.698027 -12.2456,-0.386702 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.9191px;line-height:1.25;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';letter-spacing:0px;fill:#399376;fill-opacity:1;stroke-width:0.272977"
+         x="474.24786"
+         y="90.143837"
+         id="text70338"
+         transform="scale(1.0153664,0.98486615)"><tspan
+           sodipodi:role="line"
+           id="tspan70336"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Champagne &amp; Limousines';-inkscape-font-specification:'Champagne &amp; Limousines Bold';fill:#399376;fill-opacity:1;stroke-width:0.272977"
+           x="474.24786"
+           y="90.143837">Obesidade grau III</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:6.60323px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;stroke-width:0.165081"
+         x="524.8891"
+         y="103.17329"
+         id="text133525"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;stroke-width:0.165081"
+           x="524.8891"
+           y="103.17329"
+           id="tspan133523">IMC maior do que </tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.165081"
+           x="524.8891"
+           y="111.42732"
+           id="tspan42409">40,0 Kg/m2.</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text76238"
+       style="font-size:40px;line-height:1.25;font-family:'Microsoft JhengHei UI';-inkscape-font-specification:'Microsoft JhengHei UI';letter-spacing:0px;white-space:pre;shape-inside:url(#rect76240)" />
+  </g>
+</svg>
